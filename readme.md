@@ -1,9 +1,9 @@
 # Yournewhome #
 
 
-This is a project using only *_HTML, CSS and Javascript_* for DOM manipulation with some libs. 
+This is a simple project using only *_HTML, CSS and Javascript_* for DOM manipulation with some libs. 
 
-You also can change the **template colors** and _**styles**_ manipulating _**HSL**_ variables on dev tools.
+You also can change the **template colors** and _**styles**_ by manipulating hsl _**--hue**_ variable from root on dev tools.
 
 # Libs #
 [Swiper](https://swiperjs.com/)
