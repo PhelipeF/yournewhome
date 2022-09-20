@@ -5,6 +5,7 @@ This is a project using only *_HTML, CSS and Javascript_* for DOM manipulation w
 
 You also can change the **template colors** and _**styles**_ manipulating _**HSL**_ variables on dev tools.
 
+# Libs #
 [Swiper](https://swiperjs.com/)
 
 [Scroll Reveal](https://scrollrevealjs.org/)
